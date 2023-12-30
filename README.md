@@ -1,2 +1,4 @@
-npm i
-npm run dev
+#How to tun
+
+- npm i
+- npm run dev
